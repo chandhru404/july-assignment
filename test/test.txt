@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 one line added
-=======
-i've added some text here
->>>>>>> 57af80406a7035bd4ff5ae7b5a487400f05f2d94
+
